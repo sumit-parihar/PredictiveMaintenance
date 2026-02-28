@@ -9,9 +9,6 @@ __pycache__/
 venv/
 .venv/
 
-# Models (optional: push small CSV, exclude large datasets)
-models/*.pkl
-
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
