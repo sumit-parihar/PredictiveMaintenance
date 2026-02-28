@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm settings
+.idea/
+
+# Virtual environment
+venv/
+.venv/
+
+# Models (optional: push small CSV, exclude large datasets)
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
