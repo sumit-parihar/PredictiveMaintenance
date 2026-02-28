@@ -10,7 +10,10 @@ venv/
 .venv/
 
 # Models (optional: push small CSV, exclude large datasets)
-*.pkl
+models/*.pkl
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Predictions Log
+data/prediction_log.csv
