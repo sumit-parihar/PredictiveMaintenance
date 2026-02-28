@@ -3,3 +3,12 @@ Serial No.,AirTemp,ProcessTemp,RotSpeed,Torque,ToolWear,ProductQuality,Predictio
 2,300.0,300.0,1500,40.0,10,0,No
 3,300.0,300.0,1500,40.0,10,0,No
 4,300.0,300.0,1500,40.0,10,0,No
+5,300.0,300.0,1500,40.0,10,1,Not Required
+6,300.0,300.0,1500,40.0,10,0,Not Required
+7,300.0,300.0,1500,40.0,10,0,Not Required
+8,300.0,300.0,1500,40.0,10,0,Not Required
+9,300.0,300.0,1500,40.0,10,0,Not Required
+10,300.0,300.0,1500,40.0,10,0,Not Required
+11,300.0,300.0,1500,40.0,10,0,Not Required
+12,300.0,300.0,1500,40.0,10,0,Not Required
+13,300.0,300.0,1500,40.0,10,0,Not Required
